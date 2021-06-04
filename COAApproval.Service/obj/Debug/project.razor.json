@@ -1,0 +1,19 @@
+{
+  "FilePath": "d:\\Work Code\\Fusi\\E-Training\\Source\\e-Training\\LPSeTrainingProjectAzure\\LPS.eTraining.Service\\LPS.eTraining.Service.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
